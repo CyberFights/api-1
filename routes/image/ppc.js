@@ -14,7 +14,7 @@ $drawImage[avatar;40;115;215;355]
 $loadImage[avatar;url;$getQuery[image]]
 
 $drawImage[base;0;0;283;498]
-$loadImage[base;url;https://media.discordapp.net/attachments/783926922156572682/943638633041264701/ugcw_card_template.jpg]
+$loadImage[base;path;./assets/Untitled design.png]
 $createCanvas[283;498]
 $registerFont[./assets/Cinzel-Medium.ttf;MCinzel]
 $registerFont[./assets/Cinzel-ExtraBold.ttf;EBCinzel]
